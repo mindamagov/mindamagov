@@ -5,7 +5,7 @@
 <p>
   Web developer focused on building websites and web applications.<br>
   I work with HTML, CSS, and JavaScript on the frontend,<br>
-  and also have experience with Python and Java for backend and automation tasks.
+  and also have experience with Python and Java for backend and automation tasks
 </p>
 
 <p>Currently learning new things and working on personal projects.</p>
