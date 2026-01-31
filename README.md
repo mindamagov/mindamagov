@@ -12,8 +12,10 @@
 
 <br>
 
-<!-- гифка посередине -->
-<img src="https://media1.tenor.com/m/0M3bU6j6b_AAAAAC/saturday.gif" width="380" alt="saturday gif">
+<!-- Kaneki Ghoul GIF из твоего кода (прямая ссылка) -->
+<img src="https://media.tenor.com/6o5bU6j6b_AAAAAC/kaneki-ghoul.gif" 
+     width="400" 
+     alt="Kaneki Ghoul GIF">
 
 <br><br>
 
