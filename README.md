@@ -3,9 +3,9 @@
 <h2>About Me</h2>
 
 <p>
-  Web developer focused on building websites and web applications.<br>
-  I work with HTML, CSS, and JavaScript on the frontend,<br>
-  and also have experience with Python and Java for backend and automation tasks.
+  веб-разработчик, специализируюсь на создании сайтов и веб-приложений<br>
+  работаю с html, css и javascript на фронтенде<br>
+  также есть опыт с python и java для бэкенда и задач по автоматизации
 </p>
 
 <p>Currently learning new things and working on personal projects.</p>
