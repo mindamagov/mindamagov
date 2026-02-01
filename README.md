@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>About Me</h2>
+<h2>обо мне</h2>
 
 <p>
   веб-разработчик, специализируюсь на создании сайтов и веб-приложений<br>
@@ -19,7 +19,7 @@
 
 <br><br>
 
-<h2>Tech Stack</h2>
+<h2>стеки</h2>
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -31,7 +31,7 @@
 
 <br>
 
-<h2>Activity</h2>
+<h2>активность</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mindamagov&theme=github-dark&hide_border=true&area=true" width="800"/>
 
