@@ -10,13 +10,6 @@
 
 <p>сейчас изучаю новые вещи и работаю над личными проектами</p>
 
-<br>
-
-<!-- Kaneki Ghoul GIF -->
-<img src="https://media.tenor.com/6o5bU6j6b_AAAAAC/kaneki-ghoul.gif" 
-     width="400" 
-     alt="Kaneki Ghoul">
-
 <br><br>
 
 <h2>стеки</h2>
