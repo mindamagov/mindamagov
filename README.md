@@ -8,7 +8,7 @@
   также есть опыт с python и java для бэкенда и задач по автоматизации
 </p>
 
-<p>Currently learning new things and working on personal projects.</p>
+<p>сейчас изучаю новые вещи и работаю над личными проектами</p>
 
 <br>
 
