@@ -1,31 +1,70 @@
+
+<div align="center">
+# **mindamagov**
+
+<br>\
+<br>
+<img src="https://user-images.githubusercontent.com/48876993/235451937-a2c906af-f8e4-4f6b-8a14-453f96de3c3d.gif" width="85%">
+
+</div>
+
+---
+
 <div align="center">
 
-<h2>обо мне</h2>
+# **обо мне**
 
-<p>
-  веб-разработчик, специализируюсь на создании сайтов и веб-приложений<br>
-  работаю с html, css и javascript на фронтенде<br>
-  также есть опыт с python и java для бэкенда и задач по автоматизации
-</p>
+веб-разработчик, специализируюсь на создании сайтов и веб-приложений<br>
+работаю с css и javascript на фронтенд<br>
+также есть опыт с python и java для бэкенда и задач по автоматизации
 
-<p>сейчас изучаю новые вещи и работаю над личными проектами</p>
+</div>
 
-<br><br>
+---
 
-<h2>стеки</h2>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+# **языки на которых я пишу/изучаю**
 
-<br>
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
 
-<h2>активность</h2>
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mindamagov&theme=github-dark&hide_border=true&area=true" width="800"/>
+---
+
+<div align="center">
+
+# **бд с которыми я работаю**
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white">
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://media1.tenor.com/m/ufrJFSRsWPIAAAAd/suzuya-juzo.gif" width="55%">
+</div>
+
+---
+
+<div align="center">
+
+# **связи со мнойй**
+
+хочешь проект? сборку? плагин? или просто общения?<br>
+**пиши в [telegram](https://t.me/javacrime) — я всегда на связи.**
+
+</div>
+
+---
+
+<div align="center">
+
+### **сошили продакшн — 2 0 2 5**
 
 </div>
